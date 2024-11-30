@@ -1,0 +1,12 @@
+# ninja log v5
+116	1152	7541491067403439	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	84f64fc9389bae2f
+1156	1690	7541491072728255	C:/Users/canka/Desktop/StarShip-Fighter/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2ac6t4kp/obj/arm64-v8a/libswappywrapper.so	849b05a2e8760ee
+42	2979	7541491086001042	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	910bd7d7682890a7
+72	3001	7541491086439920	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	6fea2f864442991f
+30	3051	7541491086689105	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	10e33bdeffcf36b3
+102	3140	7541491087029775	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	58a47eb561e43404
+88	3296	7541491088757553	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	4a9bd55cd6059d17
+18	3342	7541491089792420	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	fd827f1d8983026c
+55	3730	7541491093778987	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	e46e5e4937fd1a51
+2	4060	7541491096930054	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	67c1f563dbca049
+4060	4435	7541491099529997	C:/Users/canka/Desktop/StarShip-Fighter/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2ac6t4kp/obj/arm64-v8a/libgame.so	e0394f3fde1a0d6b

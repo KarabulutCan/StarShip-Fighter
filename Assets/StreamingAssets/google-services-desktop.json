@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "492662204952",
+    "firebase_url": "https://starship-fighter-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "starship-fighter",
+    "storage_bucket": "starship-fighter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492662204952:android:5d2ddb117278d6b786f16d",
+        "android_client_info": {
+          "package_name": "com.CanKarabulut.StarShipFighter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-d0zS65QMSWm7VyyZNp6FqGZwO2Kplho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

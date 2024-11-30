@@ -1,0 +1,1 @@
+C:\Users\canka\Desktop\StarShip-Fighter\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\2ac6t4kp\obj\arm64-v8a
